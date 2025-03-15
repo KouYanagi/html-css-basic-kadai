@@ -48,7 +48,7 @@
     height: 300px;
     margin: 0 auto;
     background-color: #87ceeb;
-    position: relative;
+    position: relative; 
   }
   
   #bottom-child01,
@@ -60,12 +60,15 @@
     position: absolute;
   }
   
+
   #bottom-child02 {
+    position: relative; 
     top: 100px;
     left: 200px;
   }
-  
+
   #bottom-child03 {
-    top: 200px;
+    position: relative; 
+    top: 100px;
     left: 400px;
   }
